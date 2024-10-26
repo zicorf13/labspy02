@@ -13,10 +13,7 @@ mencari bilangan terbesar dari 3 bilangan
 
 ## screenshots
 
-<img width="958" alt="praktikum 3 1" src="https://github.com/user-attachments/assets/1c65be33-da40-4061-9d4d-631dfe6e8ac5">
-<img width="955" alt="praktikum 3 2" src="https://github.com/user-attachments/assets/e8eedde4-cb04-4cf1-9f37-c07ac48697ff">
-<img width="960" alt="praktikum 3 3" src="https://github.com/user-attachments/assets/deb4d060-4e7f-4216-9572-033690e7905e">
-
+<img width="958" alt="praktikum 3 1" src="https://github.com/user-attachments/assets/0e298e00-9e67-456a-a994-c96d56f897df">
 
 
 ## Langkah langkah algoritme
